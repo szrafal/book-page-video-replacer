@@ -1,0 +1,7 @@
+1. Wrzuc film do folderu input, np. input\film.mp4
+2. Otworz caly folder projektu w Codex.
+3. Powiedz Codexowi: "Przeczytaj CODEX_PROMPT.md i AGENTS.md. Wykonaj zadanie od poczatku do konca. Masz sam instalowac zaleznosci i uruchomic pipeline na filmie z input/. Nie koncz, dopoki output/cleaned.mp4 nie bedzie poprawnym filmem z audio."
+4. Gdy Codex skonczy, wynik znajdziesz w output\cleaned.mp4
+
+Opcjonalnie po implementacji mozna uruchomic recznie:
+  powershell -ExecutionPolicy Bypass -File .\run_windows.ps1

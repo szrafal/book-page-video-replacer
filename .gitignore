@@ -1,0 +1,19 @@
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+work/*
+!work/.gitkeep
+models/*
+!models/.gitkeep
+third_party/*
+!third_party/.gitkeep
+
+# User-provided replacement artwork is input data. Keep only instructions and YAML.
+replacement_pages/*.png
+replacement_pages/*.jpg
+replacement_pages/*.jpeg

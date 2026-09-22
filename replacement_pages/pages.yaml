@@ -1,0 +1,13 @@
+mode: replace
+paper_blend_strength: 0.35
+
+spreads:
+  - id: 1
+    left: replacement_pages/spread_01_left.png
+    right: replacement_pages/spread_01_right.png
+
+  - id: 2
+    left: replacement_pages/spread_02_left.png
+    right: replacement_pages/spread_02_right.png
+
+# Ustaw left lub right na null, aby pozostawić tę stronę pustą.

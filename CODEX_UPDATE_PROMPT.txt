@@ -1,0 +1,23 @@
+Przeczytaj w całości plik UPDATE_REPLACE_PAGES.md.
+
+To jest aktualizacja istniejącego projektu. Nie twórz nowego projektu od zera.
+
+Najpierw przeanalizuj obecną strukturę repozytorium i aktualny pipeline czyszczenia stron. Następnie wdroż wszystkie wymagania z UPDATE_REPLACE_PAGES.md możliwie przez rozszerzenie istniejącego kodu.
+
+Masz samodzielnie:
+- zmodyfikować kod,
+- utworzyć potrzebne katalogi i pliki konfiguracyjne,
+- doinstalować zależności, jeżeli są rzeczywiście potrzebne,
+- uaktualnić testy,
+- uruchomić testy,
+- wykonać próbny render na dostępnych materiałach, jeżeli film wejściowy jest już w projekcie,
+- zaktualizować README.md zgodnie z wymaganiami.
+
+Szczególnie ważne:
+- nie psuj istniejącego trybu czyszczenia stron,
+- dodaj tryb wstawiania własnych ilustracji,
+- ilustracje mają być śledzone razem ze stronami,
+- zachowaj perspektywę, zasłonięcia dłonią, światło, cienie i fakturę papieru,
+- README.md ma zawierać szczegółowe instrukcje po polsku dla użytkownika nietechnicznego.
+
+Nie kończ na opisaniu zmian. Wprowadź je faktycznie do projektu i zweryfikuj ich działanie.

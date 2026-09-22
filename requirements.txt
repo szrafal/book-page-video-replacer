@@ -1,0 +1,11 @@
+numpy>=1.26
+opencv-python>=4.10
+Pillow>=10.0
+tqdm>=4.66
+scipy>=1.12
+scikit-image>=0.23
+imageio>=2.34
+imageio-ffmpeg>=0.5
+rich>=13.7
+PyYAML>=6.0
+pytest>=8.0
